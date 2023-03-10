@@ -1,5 +1,7 @@
 # SQL-data_cleaning_Nashville_housing
-I will clean the data of Nashville Housing using SQL queries for visualization purpose.
+***data_scrubbing/data_cleaning
+
+I will clean the data of Nashville Housing using SQL queries.
 /*
 Cleaning Data in SQL Queries
 */
